@@ -66,10 +66,22 @@ It is goof with what it has tight now
 ## Projects
 
 ### Flying Humanoid Robot
+### Helicoptor Control
+In this project, I have designed and developed a Helicopter Control using Linear Quadratic Regulator. There are two cases, in the first case, the system equation is represented as x ̇=Ax+Bδ and in the second case the system equation has an additional linear noise and represented as x ̇=Ax+Bδ+Cz. As this is a real time project there are few restrictions embedded with each state variable. In order to satisfy every restriction and simultaneously getting the satisfiable performance out of system is a big task. Choosing Q and R values makes the system more stable. For both the cases all the four poles of my system are on the negative real axis. This means the system is stable. Controlling system on a non-windy day is much easier than a windy day. 
+ 
+### Adaptive cruise control simulation
+### Home Monitoring system
+### 3-D prints
 ### Density Based Traffic control systems
 ### 5x5x5 LED cube
-### Adaptive cruise control simulation
-### 3-D prints
-### Home Monitoring system
+
+
+
+
+
+
+References
+
+> https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46
 
 
