@@ -26,3 +26,50 @@ In contents tab, if you click on any one of the sub sections like introduction, 
 Lets say I have a piece of code. I need a text editor kind of mode. So, that it will show colors for the code I have uploaded. Example: Like github text editor, other websites like stackexchange, tutorials point etc. has that.
 
 I will provide you the content in 3 days from now on.
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------
+
+## Main Page
+* Home
+* About
+* Work
+* Projects
+* Certifications
+* Course work
+* Contact
+
+## Home
+I am Gowtham Tummala, Geek, Roboticist, Control Systems Engineer.
+Caution: I am highly biased to Exciting Stuff!!!
+
+
+## About 
+It is goof with what it has tight now
+
+## Course Work
+
+•	Signals and Systems
+•	Control Systems 
+•	Modern Systems
+•	Adaptive Systems
+•	Optimal Control Systems
+•	Systems Identification
+
+•	Micro Processors and Micro Controllers
+•	Real-Time Embedded Systems
+
+
+## Projects
+
+### Flying Humanoid Robot
+### Density Based Traffic control systems
+### 5x5x5 LED cube
+### Adaptive cruise control simulation
+### 3-D prints
+### Home Monitoring system
+
+
