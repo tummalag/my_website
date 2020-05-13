@@ -4,6 +4,9 @@ Need to update design to this template.
 
 https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
 
+## Page Count Reference
+https://flaviocopes.com/count-visits-static-site/
+
 ## Goals:
 
 ### Masking
